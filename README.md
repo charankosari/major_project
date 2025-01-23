@@ -1,4 +1,4 @@
-### Major_Project
+## Major_Project
 ## Requirements
 - click this to download [python - 3.9.6](https://www.python.org/ftp/python/3.9.6/python-3.9.6-amd64.exe)
   
